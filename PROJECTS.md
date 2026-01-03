@@ -28,7 +28,7 @@ As the final project for 17-313 Foundations of Software Engineering our team was
 ## [CMU 17-313 Mid-Semester Project: Implement New NodeBB Features](https://github.com/CMU-313/nodebb-fall-2025-night-owls)
 In a group of 4 students, I worked on adding new features to the Open-Source Project [NodeBB](https://github.com/NodeBB/NodeBB), **a forum software powered by Node.js and Redis database.** We also deployed the updated project onto a local CMU Virtual Machine <br>
 <br>
-I created the search feature (including [creating the search input](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/35), [integrating the search input with API calls](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/41), and [filtering displayed posts](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/36)) to filter posts in category pages by queries. I additionally [integrated the static analysis tool JSHint](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/47). <br>
+I created the search feature (including [creating the search input](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/27), [integrating the search input with API calls](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/36), and [filtering displayed posts](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/41)) to filter posts in category pages by queries. I additionally [integrated the static analysis tool JSHint](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/47). <br>
 
 **Entering a Search Query**
 ![Node BB Before Search](nodebbbeforesearch.png)
