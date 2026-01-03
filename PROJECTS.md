@@ -16,19 +16,19 @@ In a group of 4 students, I added a new feature to the Open-Source Project [Inte
 <br>
 Open Library is an editable library catalogue developed on the **Infogami system (derived from the Web.py Python web framework).** <br>
 <br>
-Our group focused on creating a faster way for users to delete editions of a book on the site, as previously users would have to individually delete every edition before deleting the full work. Our contribution added a "Delete Work and All Editions" button that deletes the work and it's editions (in batches of 1000) in one click. <br>
+Our group focused on creating a faster way for users to delete editions of a book on the site, as previously users would have to individually delete every edition before deleting the full work. Our contribution added a "Delete Work and All Editions" button that deletes the work and its editions (in batches of 1000) in one click. <br>
 
 ![Open Library Button Page](openlibrarybutton.png)
 <br>
 <br>
-I personally worked on the UI for the button, and wrote the unit tests for the feature's batching deletion implementation. I also worked on integrating feedback on our group's PR as the project concluded.<br>
+I personally worked on the [UI for the button](https://github.com/aakwei/openlibrary/pull/1), and wrote the [unit tests for the feature's batching deletion implementation](https://github.com/aakwei/openlibrary/pull/5). I also worked on integrating feedback on our group's PR as the project concluded.<br>
 <br>
 As the final project for 17-313 Foundations of Software Engineering our team was expected to create a [Pull Request](https://github.com/internetarchive/openlibrary/pull/11585) in an Open-Source Project of our choosing that addressed one of the existing issues in the repo. We were also expected to have consistent communication with the maintainers, present to the instructors and other students about our implementation and project experience, and write a report about our criteria for selecting this Open-Source Project and how we attempted to become familiar with the codebase.
 
 ## [CMU 17-313 Mid-Semester Project: Implement New NodeBB Features](https://github.com/CMU-313/nodebb-fall-2025-night-owls)
 In a group of 4 students, I worked on adding new features to the Open-Source Project [NodeBB](https://github.com/NodeBB/NodeBB), **a forum software powered by Node.js and Redis database.** We also deployed the updated project onto a local CMU Virtual Machine <br>
 <br>
-I created the search feature to filter posts in category pages by queries. I additionally integrated the static analysis tool JSHint. <br>
+I created the search feature (including [creating the search input](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/35), [integrating the search input with API calls](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/41), and [filtering displayed posts](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/36)) to filter posts in category pages by queries. I additionally [integrated the static analysis tool JSHint](https://github.com/CMU-313/nodebb-fall-2025-night-owls/pull/47). <br>
 
 **Entering a Search Query**
 ![Node BB Before Search](nodebbbeforesearch.png)
