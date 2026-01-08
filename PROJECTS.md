@@ -7,7 +7,10 @@
 
 
 ## [Personal Project: Find a Cosplay](https://github.com/sreed119/findacosplay)
-Find a Cosplay is a **Rails app supported with PostgreSQL and AWS!** The site was created as a way to easily keep track of cosplay resources, especially for those that are new to cosplay!
+Find a Cosplay is a **Rails app supported with PostgreSQL and AWS!** The site was created as a way to easily keep track of cosplay resources, especially for those that are new to cosplay! <br>
+<br>
+
+### [Find a Cosplay is now deployed through Render!](https://findacosplay.onrender.com/home)
 
 ![Find a Cosplay Web App](findacosplay.png)
 
